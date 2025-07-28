@@ -2,7 +2,8 @@
 
 ![Power Platform](https://img.shields.io/badge/built%20for-Power%20Platform-purple?logo=microsoft&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/type-Power%20Automate-blue?logo=microsoft-power-automate&logoColor=white)
-![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Admin Tool](https://img.shields.io/badge/Tool-Type%3A%20Admin-lightgrey)
 
 A scheduled admin flow that scans all cloud flows in a specific environment and alerts admins when any flows are unexpectedly **turned off**.
 
